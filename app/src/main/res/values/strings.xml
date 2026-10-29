@@ -1,0 +1,12 @@
+
+<resources>
+<string name="app_name">Mobil Odev</string>
+<string name="hint_ad_soyad">Ad Soyad</string>
+<string name="hint_eposta">E-posta Adresi</string>
+<string name="hint_yas">Yaş</string>
+<string name="btn_kayit_ol">Kayıt Ol</string>
+<string name="hint_kullanici_adi">Kullanıcı Adı</string>
+<string name="hint_sifre">Şifre</string>
+<string name="btn_giris_yap">Giriş Yap</string>
+<string name="txt_sifremi_unuttum">ŞİFREMİ UNUTTUM?</string>
+</resources>
